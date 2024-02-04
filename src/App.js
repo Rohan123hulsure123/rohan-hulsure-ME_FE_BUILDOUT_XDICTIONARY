@@ -36,7 +36,7 @@ export default function App() {
       <button onClick={handleSearch}>Search</button>
       <br />
       <b>Definition:</b>
-      <br />
+      // <br />
       <p>{def}</p>
     </div>
   );
