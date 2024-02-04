@@ -34,7 +34,7 @@ export default function App() {
         onChange={(e) => setInput(e.target.value)}
       />
       <button onClick={handleSearch}>Search</button>
-      <br />
+      // <br />
       <b>Definition:</b>
       // <br />
       <p>{def}</p>
